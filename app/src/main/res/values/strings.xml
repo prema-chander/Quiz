@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="intro">Hey Kids! Wanna know your alphabets!</string>
+    <string name="bi">Let's Start </string>
+    <string name="q1">What's the starting letter of this? </string>
 </resources>
